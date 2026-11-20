@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="EduSine: school software for Bangladesh" width="100%">
+  <img src="https://github.com/user-attachments/assets/dcab0e10-6188-4d3e-8923-c2c291f13e60" alt="EduSine: school software for Bangladesh" width="100%">
 </p>
 
 # EduSine
