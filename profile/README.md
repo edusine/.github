@@ -37,3 +37,7 @@ EduSine gives schools, madrasahs, colleges and coaching centres in Bangladesh a 
 ## Contact
 
 Email [hello@edusine.com](mailto:hello@edusine.com)
+
+Phone: 01725-914-914
+
+WhatsApp: [01725-914-914](https://wa.me/8801725914914)
